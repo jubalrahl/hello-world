@@ -1,5 +1,4 @@
 # hello-world
-Beginning projects
 
 
 Hello everyone!
